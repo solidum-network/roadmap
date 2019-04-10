@@ -35,7 +35,7 @@
 
 - [x] Inform mining pools as per SMPL.
 - [x] Inform exchanges as per SEPL.
-- [ ] Launch the Solidum Ambassador Program.
+- [x] Launch the Solidum Ambassador Program.
 - [ ] Release the go-solidum 1.0 client.
 - [ ] Solidum Mainnet Launch.
 - [ ] Solidum Testnet (Ignis) Launch.
