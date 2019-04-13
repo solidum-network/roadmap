@@ -36,11 +36,11 @@
 - [x] Inform mining pools as per SMPL.
 - [x] Inform exchanges as per SEPL.
 - [x] Launch the Solidum Ambassador Program.
-- [ ] Release the go-solidum 1.0 client.
-- [ ] Solidum Mainnet Launch.
-- [ ] Solidum Testnet (Ignis) Launch.
-- [ ] Launch the mainnet block explorer.
-- [ ] Launch the mainnet network status monitor.
+- [x] Release the go-solidum 1.0 client.
+- [x] Solidum Mainnet Launch.
+- [x] Solidum Testnet (Ignis) Launch.
+- [x] Launch the mainnet block explorer.
+- [x] Launch the mainnet network status monitor.
 - [ ] Add support for Solidum - MyCrypto.
 - [ ] Add support for Solidum - MEW.
 - [ ] Approach more exchanges as per SEPL.
