@@ -41,9 +41,9 @@
 - [x] Solidum Testnet (Ignis) Launch.
 - [x] Launch the mainnet block explorer.
 - [x] Launch the mainnet network status monitor.
-- [ ] Add support for Solidum - MyCrypto.
-- [ ] Add support for Solidum - MEW.
-- [ ] Approach more exchanges as per SEPL.
+- [x] Add support for Solidum - MyCrypto.
+- [x] Add support for Solidum - MEW.
+- [x] Approach more exchanges as per SEPL.
 - [ ] Apply for CMC listing.
 - [ ] Launch the testnet block explorer.
 - [ ] Launch the testnet network status monitor.
