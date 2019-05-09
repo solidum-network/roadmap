@@ -43,7 +43,7 @@
 - [x] Launch the mainnet network status monitor.
 - [x] Add support for Solidum - MyCrypto.
 - [x] Add support for Solidum - MEW.
-- [x] Approach more exchanges as per SEPL.
+- [x] Approach exchanges as per SEPL.
 - [ ] Apply for CMC listing.
 - [ ] Launch the testnet block explorer.
 - [ ] Launch the testnet network status monitor.
